@@ -5,7 +5,6 @@ import AboutImg from '../assets/images/about-page-img.jpg';
 import styled from 'styled-components';
 import AboutInfoItem from '../components/AboutInfoItem';
 import ContactBanner from '../components/ContactBanner';
-import fileSaver from 'file-saver';
 
 const AboutPageStyles = styled.div`
   padding: 15rem 0 0 0;
@@ -74,13 +73,7 @@ const AboutPageStyles = styled.div`
 `;
 
 export default function About() {
-
-  const saveManual = () => {
-    fileSaver.saveAs(
-      process.env.REACT_APP_CLIENT_URL + "/assets/CVViktoriiaBeloborodovaENG.pdf",
-      `CV_Viktoriia_Beloborodova.pdf`);
-    };
-  return (
+return (
     <AboutPageStyles>
       <div className="container">
         <div className="top-section">
@@ -106,7 +99,8 @@ export default function About() {
                   problems, on task that support my professional development.
               </PText>
             </div>
-            <Button btnText='Download CV' onClick={saveManual} />
+            
+            <Button btnText='Download CV' btnLink='%PUBLIC_URL%/CVViktoriiaBeloborodovaENG.pdf'></Button>
           </div>
           <div className="right">
             <img src={AboutImg} alt='Viktoriia Beloborodova img' />

@@ -12,6 +12,7 @@ const projects = [
     desc:
       'Comming soon...',
     img: UTrackerImg,
+    link: 'http://button.com',
   },
   {
     id: uuidv4(),
@@ -19,6 +20,7 @@ const projects = [
     desc:
       'Comming soon...',
     img: GreenCtgImg,
+    link: '',
   },
   {
     id: uuidv4(),
@@ -26,6 +28,7 @@ const projects = [
     desc:
       'Comming soon...',
     img: CoinTrackerImg,
+    link: '',
   },
   {
     id: uuidv4(),
@@ -33,6 +36,7 @@ const projects = [
     desc:
       'A portfolio for Cavin jr. A artist from New york city. The portfolio is made using ReactJs and GatsbyJs.',
     img: CavinImg,
+    link: '',
   },
   {
     id: uuidv4(),
@@ -40,6 +44,7 @@ const projects = [
     desc:
       'Comming soon...',
     img: ProjectImg,
+    link: '',
   },
 ];
 

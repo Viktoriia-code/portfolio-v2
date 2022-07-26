@@ -100,7 +100,7 @@ return (
               </PText>
             </div>
             
-            <Button btnText='Download CV' btnLink='%PUBLIC_URL%/CVViktoriiaBeloborodovaENG.pdf'></Button>
+            <Button btnText='Download CV' btnLink={process.env.PUBLIC_URL + '/CVViktoriiaBeloborodovaENG.pdf'}></Button>
           </div>
           <div className="right">
             <img src={AboutImg} alt='Viktoriia Beloborodova img' />

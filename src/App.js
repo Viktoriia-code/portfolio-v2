@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 import React from 'react';
 import NavMenu from './components/NavMenu';
 import Home from './pages/Home';
@@ -10,6 +11,7 @@ import SmoothScrollbar from './components/SmoothScrollbar';
 
 export default function App() {
   return (
+      <HashRouter basename={process.env.PUBLIC_URL}>
       <Router>     
       <NavMenu />
       <SmoothScrollbar>
@@ -22,5 +24,6 @@ export default function App() {
           <Footer />
           </SmoothScrollbar>
       </Router>
+      </HashRouter>
   );
 };

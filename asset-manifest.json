@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.4b6ce81c.css",
-    "main.js": "/react-portfolio/static/js/main.d9f2df21.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-portfolio/static/js/787.28cb0dcd.chunk.js",
-    "static/media/girl.png": "/react-portfolio/static/media/girl.b1d74f527db6c48524d2.png",
-    "static/media/cavinimg.jpg": "/react-portfolio/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
-    "static/media/my_photo.jpg": "/react-portfolio/static/media/my_photo.e4f38ac0c1f7d059c105.jpg",
-    "static/media/utracker.jpg": "/react-portfolio/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
-    "static/media/greenctg.jpg": "/react-portfolio/static/media/greenctg.e51b3bbd67082da93f16.jpg",
-    "static/media/about-page-img.jpg": "/react-portfolio/static/media/about-page-img.0f3c1d2e5b5ab26eb90e.jpg",
-    "static/media/map.png": "/react-portfolio/static/media/map.3722443208208d0907c8.png",
-    "static/media/Montserrat-Bold.ttf": "/react-portfolio/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
-    "static/media/Montserrat-SemiBold.ttf": "/react-portfolio/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
-    "static/media/cointracker.jpg": "/react-portfolio/static/media/cointracker.8da9e0cd4402156b905b.jpg",
-    "static/media/RobotoMono-Regular.ttf": "/react-portfolio/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
-    "static/media/projectImg.png": "/react-portfolio/static/media/projectImg.771236e1a97e2201a189.png",
-    "index.html": "/react-portfolio/index.html",
-    "static/media/scroll-down-arrow.svg": "/react-portfolio/static/media/scroll-down-arrow.8ad25c53cf6a683760324d08f36d9b00.svg",
-    "static/media/social-media-arrow.svg": "/react-portfolio/static/media/social-media-arrow.ecc0133cf2e7911d4b7286c107f982ec.svg",
-    "main.4b6ce81c.css.map": "/react-portfolio/static/css/main.4b6ce81c.css.map",
-    "main.d9f2df21.js.map": "/react-portfolio/static/js/main.d9f2df21.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-portfolio/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/portfolio-v2/static/css/main.a1c6c3bb.css",
+    "main.js": "/portfolio-v2/static/js/main.38cdf19b.js",
+    "static/js/453.ed3810f9.chunk.js": "/portfolio-v2/static/js/453.ed3810f9.chunk.js",
+    "static/media/girl.png": "/portfolio-v2/static/media/girl.b1d74f527db6c48524d2.png",
+    "static/media/cavinimg.jpg": "/portfolio-v2/static/media/cavinimg.77adeaa3a878fa721ecc.jpg",
+    "static/media/my_photo.jpg": "/portfolio-v2/static/media/my_photo.e4f38ac0c1f7d059c105.jpg",
+    "static/media/utracker.jpg": "/portfolio-v2/static/media/utracker.be1fe64a60e6c8ad2a2f.jpg",
+    "static/media/greenctg.jpg": "/portfolio-v2/static/media/greenctg.e51b3bbd67082da93f16.jpg",
+    "static/media/about-page-img.jpg": "/portfolio-v2/static/media/about-page-img.0f3c1d2e5b5ab26eb90e.jpg",
+    "static/media/map.png": "/portfolio-v2/static/media/map.3722443208208d0907c8.png",
+    "static/media/Montserrat-Bold.ttf": "/portfolio-v2/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/portfolio-v2/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/cointracker.jpg": "/portfolio-v2/static/media/cointracker.8da9e0cd4402156b905b.jpg",
+    "static/media/RobotoMono-Regular.ttf": "/portfolio-v2/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/projectImg.png": "/portfolio-v2/static/media/projectImg.771236e1a97e2201a189.png",
+    "index.html": "/portfolio-v2/index.html",
+    "static/media/scroll-down-arrow.svg": "/portfolio-v2/static/media/scroll-down-arrow.8ad25c53cf6a683760324d08f36d9b00.svg",
+    "static/media/social-media-arrow.svg": "/portfolio-v2/static/media/social-media-arrow.ecc0133cf2e7911d4b7286c107f982ec.svg",
+    "main.a1c6c3bb.css.map": "/portfolio-v2/static/css/main.a1c6c3bb.css.map",
+    "main.38cdf19b.js.map": "/portfolio-v2/static/js/main.38cdf19b.js.map",
+    "453.ed3810f9.chunk.js.map": "/portfolio-v2/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b6ce81c.css",
-    "static/js/main.d9f2df21.js"
+    "static/css/main.a1c6c3bb.css",
+    "static/js/main.38cdf19b.js"
   ]
 }
